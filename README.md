@@ -12,24 +12,7 @@
 [email]: mailto:contact@divinehycenth.com/
 [twitter]: https://www.twitter.com/DivineHycenth
 [medium]: https://medium.com/@lssuseendharlal
-[![Divine Hycenth's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/dnature)
-
-### Connect with me:
-### Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">, I'm Divine Hycenth
-
-![](https://komarev.com/ghpvc/?username=dnature)
-
-###
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnature&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[website]: https://divinehycenth.com
-[linkedin]: https://www.linkedin.com/in/dnature/
-[github]: https://github.com/dnature
-[email]: mailto:contact@divinehycenth.com/
-[twitter]: https://www.twitter.com/DivineHycenth
-[medium]: https://medium.com/@lssuseendharlal
-[![Divine Hycenth's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/dnature)
+[dev]: https://dev.to/dnature
 
 ### Connect with me:
 
@@ -37,4 +20,5 @@
 [<img align="left" alt="codeSTACKr | Github" width="30px" src="https://img.icons8.com/color/2x/github.png" />][github]
 [<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://img.icons8.com/color/2x/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | Medium" width="30px" src="https://img.icons8.com/color/2x/medium-monogram.png" />][medium]
-[<img align="left" alt="codeSTACKr | Gmail" width="30px" src="https://img.icons8.com/color/2x/gmail.png" />][gmail]
+[<img align="left" alt="codeSTACKr | Gmail" width="30px" src="https://img.icons8.com/color/2x/gmail.png" />][email]
+[<img align="left" alt="codeSTACKr | Dev" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
