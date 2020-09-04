@@ -3,7 +3,12 @@
 ![](https://komarev.com/ghpvc/?username=dnature)
 
 ###
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DNature&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DNature&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+
+
+<img align="right" alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" data-canonical-src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" style="max-width:100%;">
 
 ###
 
