@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=dnature)
 
 ###
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DNature)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DNature&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
