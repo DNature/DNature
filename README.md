@@ -3,8 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=dnature)
 
 ###
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DNature)](https://github.com/anuraghazra/github-readme-stats)
+
+###
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnature&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+###
 
 [website]: https://divinehycenth.com
 [linkedin]: https://www.linkedin.com/in/dnature/
