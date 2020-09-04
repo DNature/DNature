@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">, I'm Divine Hycenth
+### Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">, I'm Divine
 
 ![](https://komarev.com/ghpvc/?username=dnature)
 
