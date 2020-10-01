@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">, I'm Divine
 
-![](https://komarev.com/ghpvc/?username=dnature)
+<!-- ![](https://komarev.com/ghpvc/?username=dnature) -->
 
 ###
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DNature&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
