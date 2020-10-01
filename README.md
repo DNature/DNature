@@ -21,7 +21,7 @@
 [github]: https://github.com/dnature
 [email]: mailto:contact@divinehycenth.com/
 [twitter]: https://www.twitter.com/DivineHycenth
-[medium]: https://medium.com/@lssuseendharlal
+[medium]: https://medium.com/@divinehycenth8
 [dev]: https://dev.to/dnature
 
 ### Connect with me:
