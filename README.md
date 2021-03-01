@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">, I'm Divine
 
+<codersrank-summary username="dnature"></codersrank-summary>
+
 <!-- ![](https://komarev.com/ghpvc/?username=dnature) -->
 
 ###
