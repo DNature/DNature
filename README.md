@@ -12,7 +12,7 @@
 
 ###
 [![Divine's github stats](https://github-readme-stats-zeta-nine-77.vercel.app/api?username=DNature&include_all_commits=true&count_private=true&show_icons=true&theme=radical&icon_color=06D001&show=prs_merged_percentage&custom_title=Divine's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnature&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnature&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ###
 
